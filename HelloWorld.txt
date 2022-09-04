@@ -1,2 +1,4 @@
 Welcome to the new begining!
 Work hard Emmanuel !
+Day 3 error: pathspec 'first commit' did not match any file(s) known to git
+Day 4 what is the purpose of all these at the end
